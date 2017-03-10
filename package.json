@@ -1,6 +1,6 @@
 {
   "name": "actioncable-esm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "actioncable esm",
   "main": "index.esm.js",
   "module": "index.esm.js",
