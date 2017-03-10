@@ -1,0 +1,18 @@
+{
+  "name": "actioncable-esm",
+  "version": "0.0.0",
+  "description": "actioncable esm",
+  "main": "index.esm.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuki-torii/actioncable-esm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuki-torii/actioncable-esm/issues"
+  },
+  "homepage": "https://github.com/yuki-torii/actioncable-esm#readme"
+}
