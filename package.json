@@ -4,9 +4,6 @@
   "description": "actioncable esm",
   "main": "index.esm.js",
   "module": "index.esm.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuki-torii/actioncable-esm.git"
